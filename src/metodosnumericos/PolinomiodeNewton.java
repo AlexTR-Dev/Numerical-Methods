@@ -9,7 +9,7 @@ package metodosnumericos;
 
 /**
  *
- * @author Alejandro
+ * @author Alejandro Morales
  */
 public class PolinomiodeNewton extends javax.swing.JFrame {
 

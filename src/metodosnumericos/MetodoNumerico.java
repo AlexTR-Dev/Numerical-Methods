@@ -8,7 +8,7 @@ package metodosnumericos;
 
 /**
  *
- * @author Alejandro
+ * @author Alejandro Morales
  */
 public class MetodoNumerico extends javax.swing.JFrame {
 

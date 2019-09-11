@@ -16,7 +16,7 @@ import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 /**
 *
-* @author RAFAEL
+* @author Alejandro Morales
 */
 public class funcion {
 private String  operacion;

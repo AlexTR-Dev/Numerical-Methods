@@ -9,7 +9,7 @@ import java.math.*;
 
 /**
  *
- * @author Alejandro
+ * @author Alejandro Morales
  */
 public class InterpolacionLagrange extends javax.swing.JFrame {
 
