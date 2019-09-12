@@ -69,7 +69,7 @@ funcion f =new funcion();
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabel2.setText("Función f(x):");
 
-        jlResultadofinal.setBorder(javax.swing.BorderFactory.createBevelBorder(1));
+        jlResultadofinal.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
 
         jButton1.setText("Calculo de Raíz");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -144,7 +144,7 @@ funcion f =new funcion();
 
         jLabel11.setText("Error Aproximado:");
 
-        jlResultadofinal1.setBorder(javax.swing.BorderFactory.createBevelBorder(1));
+        jlResultadofinal1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel7.setText("Método de Newton-Raphson Modificado");
@@ -209,7 +209,7 @@ funcion f =new funcion();
                                 .addGap(18, 18, 18)
                                 .addComponent(jtFx, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE))))
                     .addComponent(jButton2))
-                .addContainerGap(65, Short.MAX_VALUE))
+                .addContainerGap(50, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
