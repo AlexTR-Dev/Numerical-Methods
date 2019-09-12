@@ -13,8 +13,8 @@ Numerical Methods are techniques that, through the application of arithmetic met
 *Modified Newton Raphson
 *Newton Polynomial and Divided Difference based
 
-# Otros
+### Otros
 *Permite ingrear funciones matemática de la forma f(x)
 
-# Other
+### Other
 *Imput mathematical functions  f(x)
