@@ -18,6 +18,7 @@ import javax.script.ScriptException;
 *
 * @author Alejandro Morales
 */
+// Permite ingresar una función como cadena de texto y es traducida
 public class funcion {
 private String  operacion;
 private String   resultadoConversion;
